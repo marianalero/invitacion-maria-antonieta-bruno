@@ -388,9 +388,15 @@
 		$("#btnRecepcion").click(function(){
 			window.location.href="https://maps.app.goo.gl/dUAjpWETxBKLAT4L7";
 		});
+		$("#btnCivil").click(function(){
+			window.location.href="https://maps.app.goo.gl/dUAjpWETxBKLAT4L7";
+		});
 		
 		$("#btnMesaRegalos").click(function(){
-			
+			window.location.href="https://sinenvolturas.com/mariaantonietaybruno";
+		});
+		$("#iralmapa").click(function(){
+			window.location.href="https://maps.app.goo.gl/Maufw5Pvv7az4UJR9";
 		});
 		
 	});
